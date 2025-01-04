@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,5 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3636-check-balanced-string](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/3636-check-balanced-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
