@@ -46,3 +46,19 @@ public:
         return partitionAndMerge(0, n-1, lists);
     }
 };
+
+// Algorithm :
+// Divide: Split the ( k ) lists into pairs and recursively merge them.
+// Conquer: Merge two sorted lists at each step using a helper function.
+// Repeat the process until only one merged list remains.
+
+// Steps in Code :
+// Use a helper function to merge two sorted linked lists.
+// Implement a recursive function that divides the list of linked lists into two halves until the base case is reached (a single list or empty list).
+// Merge the two halves recursively.
+// Return the final merged list.
+// Complexity :
+// Time Complexity: O(N log k)
+// ( N ): Total number of nodes across all lists.
+// ( log k ): Number of levels in the divide-and-conquer recursion tree.
+// Space Complexity: O(log k) due to recursive function calls.
