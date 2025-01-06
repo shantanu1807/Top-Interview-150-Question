@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
