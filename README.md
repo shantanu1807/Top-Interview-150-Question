@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
