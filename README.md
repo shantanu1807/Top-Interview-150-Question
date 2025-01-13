@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -33,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -78,8 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0263-ugly-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
