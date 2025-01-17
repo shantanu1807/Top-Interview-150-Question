@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3636-check-balanced-string](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -98,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
