@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0263-ugly-number) |
 ## Bucket Sort
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
