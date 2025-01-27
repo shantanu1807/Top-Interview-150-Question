@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2634-minimum-common-value) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2634-minimum-common-value) |
 ## Matrix
