@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0451-sort-characters-by-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2210-find-target-indices-after-sorting-array) |
