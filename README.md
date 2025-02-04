@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0268-missing-number) |
 ## Bucket Sort
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shantanu1807/Top-Interview-150-Question/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
